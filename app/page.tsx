@@ -125,7 +125,7 @@ export default function EventPage() {
                   <div className="bg-white p-6 rounded-lg border-2 border-purple-200">
                     <h4 className="text-xl font-semibold text-purple-700 mb-4">🤝 ご支援のお願い</h4>
                     <p className="mb-4">
-                      一緒の楽しむためにもし可能であればご検討いただきたい点がございます。子供たちの働きに感謝し、同じ気持ちで子供たちの成長と笑顔を共に見守り応援したいと思ってくださる方でご支援いただける方は、参加費とは別に
+                      一緒に楽しむためにもし可能であればご検討いただきたい点がございます。子供たちの働きに感謝し、同じ気持ちで子供たちの成長と笑顔を共に見守り応援したいと思ってくださる方でご支援いただける方は、参加費とは別に
                       1 口 500 円から受け付けております。
                     </p>
                     <p className="mb-4">
